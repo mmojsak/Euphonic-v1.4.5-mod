@@ -1,4 +1,4 @@
-This is a fork of the `Euphonic <https://euphonic.readthedocs.io/en/stable/>` package with custom modifications to enable better control of the ASR correction and facilitate the extraction of dynamical matrices.`
+This is a fork of the `Euphonic <https://euphonic.readthedocs.io/en/stable/>`_ package with custom modifications to enable better control of the ASR correction and facilitate the extraction of dynamical matrices.`
 
 ========
 Euphonic
